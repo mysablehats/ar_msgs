@@ -49,7 +49,6 @@ message_generation
 ## Generate messages in the 'msg' folder
 add_message_files(
    FILES
-   Joint.msg
    Object.msg
    Person.msg
    PersonArray.msg

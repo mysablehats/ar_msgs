@@ -1,4 +1,4 @@
-float64 centre_x
-float64 centre_y
-float64 centre_z
+string name
+float32 confidence
+geometry_msgs/Pose pose
 sensor_msgs/RegionOfInterest roi
