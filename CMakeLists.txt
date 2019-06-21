@@ -50,6 +50,7 @@ message_generation
 add_message_files(
    FILES
    Joint.msg
+   Object.msg
    Person.msg
    PersonArray.msg
  )
