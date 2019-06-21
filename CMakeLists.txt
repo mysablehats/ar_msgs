@@ -53,6 +53,7 @@ add_message_files(
    ObjectArray.msg
    Person.msg
    PersonArray.msg
+   RegionOfInterest3D.msg
  )
 
 ## Generate services in the 'srv' folder
